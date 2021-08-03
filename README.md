@@ -1,34 +1,37 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">A Python , PHP , Java , JavaScript , NodeJs , Android Developer 👩‍💻 These Are The Love Of My Life 😉</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdz&label=Profile%20views&color=0e75b6&style=flat" alt="vikasdz" /> </p>
+<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Rohan</a> 🙋🏽‍♂️</h1> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasdz" alt="vikasdz" /></a> </p>
+![](https://visitor-badge.glitch.me/badge?page_id=rohandas28) 
 
-- 🔭 I’m currently working on [iNotes App](https://drive.google.com/drive/u/3/folders/18t67PfuoPi-5FPa6nTDmnW3zW_swq2bo)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🌱 I’m currently learning **ReactJs Or Angular**
 
-- 🤝 I’m looking for help with **iEduction**
+I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
 
-- 📝 I regularly write articles on [https://cyberseccurity.blogspot.com/](https://cyberseccurity.blogspot.com/)
+---
 
-- 📫 How to reach me **vikashraj979898@gmail.com**
+ ## My Skills <img alt="Computer" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3577/3577497.svg"/>
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/3/folders/1_8uCuceG_sQpRuQFprEtbVENoxmlmTpe](https://drive.google.com/drive/u/3/folders/1_8uCuceG_sQpRuQFprEtbVENoxmlmTpe)
+ **Languages and Frameworks**
+ 
+ <img alt="Python" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/>|<img alt="C" width="30px" src="https://img.icons8.com/color/100/000000/c-programming.png"/>|<img alt="HTML" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"/>|<img alt="CSS" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/>|<img alt="JavaScript" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/>|<img alt="Bootstrap" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1348/1348052.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/bulma.svg"/>|<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+ |--|--|--|--|--|--|--|--|
+ 
+ **Tools**
+ 
+ <img alt="Ubuntu" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888879.svg"/>|<img alt="Linux" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/226/226772.svg"/>|<img alt="Git" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"/>|<img alt="VSCode" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg"/>|
+ |--|--|--|--|
+ 
+ **Designing and Photo Editing**
+ 
+<img alt="Adobe Photoshop" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732170.svg"/>|<img alt="Gimp" width="30px" src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"/>
+ |--|--|--|
 
-- ⚡ Fun fact **I Don't Know 😜**
+**Audio & Video Editing**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/vikas-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vikas-kumar" height="30" width="40" /></a>
-<a href="https://fb.com/satya.py0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satya.py0" height="30" width="40" /></a>
-<a href="https://instagram.com/satya.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satya.py" height="30" width="40" /></a>
-</p>
+<img alt="Adobe Premiere Pro" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136555.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136520.svg"/>|<img alt="Adobe Audition" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136519.svg"/>|<img alt="Audacity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Audacity_Logo_nofilter.svg"/>
+|--|--|--|--|
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasdz&show_icons=true&locale=en&layout=compact" alt="vikasdz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasdz&" alt="vikasdz" /></p>
+ **Connect with Me**
+---
+[<img align="left" alt="Rohan Das" width="30px" src="https://rohandas28.github.io/assets/images/logo.png" />](https://rohandas28.github.io) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/rohandas28) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/RohanDas28) [<img align="left" alt="YouTube -Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733590.svg" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:rohandasbirbhum@gmail.com)
