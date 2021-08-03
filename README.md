@@ -1,12 +1,12 @@
 
-<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Rohan</a> 🙋🏽‍♂️</h1> 
+<h1>Hi there, I am <a href="https://vikashdz.github.io" target="_blank">Vikas</a> 🙋🏽‍♂️</h1> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=rohandas28) 
+![](https://visitor-badge.glitch.me/badge?page_id=vikashdz) 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
+I'm a Programmer & Web Developer a Mobile Application Developer Many More
 
 ---
 
@@ -24,14 +24,9 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  
  **Designing and Photo Editing**
  
-<img alt="Adobe Photoshop" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732170.svg"/>|<img alt="Gimp" width="30px" src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"/>
+<img alt="Adobe Photoshop" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg"/>
  |--|--|--|
-
-**Audio & Video Editing**
-
-<img alt="Adobe Premiere Pro" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136555.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136520.svg"/>|<img alt="Adobe Audition" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136519.svg"/>|<img alt="Audacity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Audacity_Logo_nofilter.svg"/>
-|--|--|--|--|
 
  **Connect with Me**
 ---
-[<img align="left" alt="Rohan Das" width="30px" src="https://rohandas28.github.io/assets/images/logo.png" />](https://rohandas28.github.io) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/rohandas28) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/RohanDas28) [<img align="left" alt="YouTube -Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733590.svg" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:rohandasbirbhum@gmail.com)
+[<img align="left" alt="Vikas" width="30px" src="https://vikasdz.github.io/assets/images/logo.png" />](https://vikasdz.github.io) [<img align="left" alt="Twitter - Vikas " width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/satya.py) [<img align="left" alt="Instagram - SatYam" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/satya.py)[<img align="left" alt="YouTube - Mr Vikas " width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733590.svg" />](https://www.youtube.com/channel/UCvGZsfaVeSZAczWXB1VwNZQ) [<img align="left" alt="Email -Vikas" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](vikashraj979898@gmail.com)
