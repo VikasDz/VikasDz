@@ -33,8 +33,4 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
  **Connect with Me**
 ---
 [<img align="left" alt="Vikas" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />](https://github.com/VikasDz) [<img align="left" alt="Twitter - Vikas " width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/satya.py) [<img align="left" alt="Instagram - SatYam" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/satya.py)[<img align="left" alt="YouTube - Mr Vikas " width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733590.svg" />](https://www.youtube.com/channel/UCvGZsfaVeSZAczWXB1VwNZQ) [<img align="left" alt="Email -Vikas" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](vikashraj979898@gmail.com)
----
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasdz&show_icons=true&locale=en&layout=compact" alt="vikasdz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasdz&" alt="vikasdz" /></p>
