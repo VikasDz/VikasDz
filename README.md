@@ -21,7 +21,7 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
  
  **Tools**
  
- <img alt="Ubuntu" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888879.svg"/><img alt="Linux" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/226/226772.svg"/><img alt="Git" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"/><img alt="VSCode" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg"/>
+ [<img alt="Ubuntu" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888879.svg"/>] [<img alt="Linux" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/226/226772.svg"/>] [<img alt="Git" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"/>] [<img alt="VSCode" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg"/>]
 
  
  **Designing , Photo Editing & Video Editing 😉**
