@@ -25,7 +25,7 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
  
  **Designing and Photo Editing**
  
-<img alt="Adobe Photoshop" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg"/>|<img alt="" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732170.svg"/>|<img alt="Morpheus" width="30px" src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"/>
+<img alt="Adobe Photoshop" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg"/>|<img alt="" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732170.svg"/>|<img alt="Morpheus" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/Capture.PNG"/>
  |--|--|--|
  
 
