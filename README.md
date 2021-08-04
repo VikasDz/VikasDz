@@ -5,10 +5,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Passionate About Coding and Enjoy.
 
-I'm a Programmer & Web Developer a Mobile Application Developer Many More
-
----
+---------------------------------------------------------------------------------------------------------------
 
  ## My Skills <img alt="Computer" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3577/3577497.svg"/>
 
