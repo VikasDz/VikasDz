@@ -1,5 +1,5 @@
 
-<h1>Hi there, I am <a href="https://vikashdz.github.io" target="_blank">Vikas</a> 🙋🏽‍♂️</h1> 
+<h1>Hi there, I am <a href="https://github.com/VikasDz" target="_blank">Vikas</a> 🙋🏽‍♂️</h1> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vikashdz) 
 
