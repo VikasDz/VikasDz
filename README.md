@@ -9,7 +9,7 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
 
 ---------------------------------------------------------------------------------------------------------------
 
- ## My Skills <img alt="Computer" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3577/3577497.svg"/>
+ ## My Skills <img alt="Computer" width="40px" src="https://icons8.com/icon/TanQLDuIUY0k/computer"/>
 
  **Languages and Frameworks**
  
