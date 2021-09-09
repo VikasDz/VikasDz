@@ -21,7 +21,7 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
  
  **Tools**
  
- <img alt="Ubuntu" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/ubuntu.png"/><img alt="Linux" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/linux.png"/><img alt="Git" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/github%20(3).png"/><img alt="VSCode" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/visual-studio.png"/>
+ <img alt="Ubuntu" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/ubuntu.png"/><img alt="Linux" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/linux.png"/><img alt="Git" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/github%20(2).png"/><img alt="VSCode" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/visual-studio.png"/>
 
  
  **Designing , Photo Editing & Video Editing 😉**
