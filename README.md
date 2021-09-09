@@ -9,7 +9,7 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
 
 ---------------------------------------------------------------------------------------------------------------
 
- ## My Skills <img alt="Computer" width="40px" src="https://icons8.com/icon/TanQLDuIUY0k/computer"/>
+ ## My Skills <img alt="Computer" width="40px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-computer-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
 
  **Languages and Frameworks**
  
