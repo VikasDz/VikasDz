@@ -21,12 +21,12 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
  
  **Tools**
  
- <img alt="Ubuntu" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888879.svg"/><img alt="Linux" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/226/226772.svg"/><img alt="Git" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"/><img alt="VSCode" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg"/>
+ <img alt="Ubuntu" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888879.svg"/><img alt="Linux" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/linux.png"/><img alt="Git" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/github%20(3).png"/><img alt="VSCode" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/visual-studio.png"/>
 
  
  **Designing , Photo Editing & Video Editing 😉**
 
-<img alt="Adobe Photoshop" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg"/><img alt="Filmora" width="30px" src="https://img.icons8.com/color/48/000000/filmora.png"/><img alt="Morpheus" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/Capture.PNG"/>
+<img alt="Adobe Photoshop" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/adobe-photoshop.png"/><img alt="Filmora" width="30px" src="https://img.icons8.com/color/48/000000/filmora.png"/><img alt="Morpheus" width="30px" src="https://github.com/VikasDz/VikasDz/blob/main/Capture.PNG"/>
 
  
 
