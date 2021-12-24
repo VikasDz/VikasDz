@@ -32,5 +32,5 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
 
  **Connect with Me**
 ---
-[<img align="left" alt="Vikas" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />](https://github.com/VikasDz) [<img align="left" alt="Instagram - SatYam" width="30px" src="https://img.icons8.com/color/48/000000/instagram" />](https://www.instagram.com/satya.py)[<img align="left" alt="YouTube - Mr Vikas " width="30px" src="https://img.icons8.com/color/48/000000/youtube" />](https://www.youtube.com/channel/UCvGZsfaVeSZAczWXB1VwNZQ) [<img align="left" alt="Email -Vikas" width="30px" src="https://img.icons8.com/color/48/000000/gmail/vikashraj979898@gmail.com"/>]
+[<img align="left" alt="Vikas" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />](https://github.com/VikasDz) [<img align="left" alt="Instagram - SatYam" width="30px" src="https://img.icons8.com/color/48/000000/instagram" />](https://www.instagram.com/satya.py)[<img align="left" alt="YouTube - Mr Vikas " width="30px" src="https://img.icons8.com/color/48/000000/youtube" />](https://www.youtube.com/channel/UCvGZsfaVeSZAczWXB1VwNZQ) [<img align="left" alt="Email -Vikas" width="30px" src="https://img.icons8.com/color/48/000000/gmail"/>]
 
