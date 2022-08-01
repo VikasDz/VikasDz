@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=vikashdz) 
 
 
-A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Passionate About Coding and Enjoy.
+A IT Guy With Excellent Skills and Ability To Perform Well in a Team. Passionate About Coding and Enjoy.
 
 ---------------------------------------------------------------------------------------------------------------
 
