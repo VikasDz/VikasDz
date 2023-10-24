@@ -1,17 +1,12 @@
 
 
-<h1 align="center"> <img src="https://giphy.com/embed/mRSm4HwlILZxDDMtoT" width="38px">
 
 <a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=100&size=30&pause=1000&color=D3A5F7&random=false&width=435&lines=Hii%2C+I'm+Vikash+Kumar" alt="Typing SVG" /></a></h1>
 
 <div align="center">
-<a ><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F70909&center=true&width=700&lines=An+Undergraduate+Student%2C+Always+keen+to+Learn+New+Technologies;%E2%9D%A4%EF%B8%8FData+Structures+and+Algorithms%E2%9D%A4%EF%B8%8F;%F0%9F%92%AC+Java+%7C+C+%F0%9F%92%AC;%F0%9F%9B%A0%EF%B8%8F+STUNNING+SPARK+%F0%9F%9B%A0%EF%B8%8F;Open+Source+%E2%9D%A4%EF%B8%8F" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=8986F7&random=false&width=435&lines=Post+Graduate+Student%2C+Who+Love+Deployment;Android+Development+With+Java+%F0%9F%98%89;Python+%7C%7C+Java+%7C%7C+C++%E2%9D%A4;Learning+DevOps" alt="Typing SVG" /></a>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/unQ3IJU2RG7DO">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdz" alt="vikasdz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on `Python` 
 
@@ -24,9 +19,9 @@
 
  </div>
 
-
-  <h3>Connect With Me 💬❤</h3>
-[<img align="left" alt="Vikas" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />](https://github.com/VikasDz) [<img align="left" alt="Instagram - SatYam" width="30px" src="https://img.icons8.com/color/48/000000/instagram" />](https://www.instagram.com/satya.py)[<img align="left" alt="YouTube - Mr Vikas " width="30px" src="https://img.icons8.com/color/48/000000/youtube" />](https://www.youtube.com/channel/UCvGZsfaVeSZAczWXB1VwNZQ) [<img align="left" alt="Email -Vikas" width="30px" src="https://img.icons8.com/color/48/000000/gmail"/>](https://mail.google.com/vikashraj979898gmail.com)
+   <h3>Connect With Me 💬❤</h3>
+  <a href="https://www.linkedin.com/in/vikasdz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="" width="45" height="45" /></a> &nbsp
+  <a href="https://www.instagram.com/satya.py/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="" width="45" height="45" /></a>
 
 
  <div align = "center">
@@ -56,5 +51,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VikasDz&theme=dark&hide_border=true&border_radius=5)
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vikasdz&theme=dark&hide_border=true"/></p>
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vikasdz&theme=dark&hide_border=true)
