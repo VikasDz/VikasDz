@@ -5,7 +5,9 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=17F7CF&random=false&width=435&lines=Post+Graduate+Student%2C+Who+Love+Development+%F0%9F%99%8C;Android+Development+With+Java+%F0%9F%98%89;Python+%7C%7C+Java+%7C%7C+C++%E2%9D%A4;Learning+DevOps+%E2%9D%A4" alt="Typing SVG" /></a>
+ <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdz" alt="vikasdz" /> </p>
+ 
 🔭 I’m currently working on `Python` 
 
 🌱 I’m currently learning `DevOps` 
@@ -13,9 +15,7 @@
 ❤️ Currently Trying contributing to `Open-Source`
 
 
-<div align = "center">
 
- </div>
 
    <h3>Connect With Me 💬❤</h3>
   <a href="https://www.linkedin.com/in/vikasdz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="" width="45" height="45" /></a> &nbsp
@@ -40,7 +40,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-c.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   </div>
 
 <p align="left">
