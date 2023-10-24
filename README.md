@@ -1,18 +1,18 @@
 
 
-
-<a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=100&size=30&pause=1000&color=D3A5F7&random=false&width=435&lines=Hii%2C+I'm+Vikash+Kumar" alt="Typing SVG" /></a></h1>
+<div align="center">
+<a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=100&size=30&pause=1000&color=D3A5F7&random=true&width=435&lines=Hii%2C+I'm+Vikash+Kumar" alt="Typing SVG" /></a></h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=8986F7&random=false&width=435&lines=Post+Graduate+Student%2C+Who+Love+Deployment;Android+Development+With+Java+%F0%9F%98%89;Python+%7C%7C+Java+%7C%7C+C++%E2%9D%A4;Learning+DevOps" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=17F7CF&random=false&width=435&lines=Post+Graduate+Student%2C+Who+Love+Development+%F0%9F%99%8C;Android+Development+With+Java+%F0%9F%98%89;Python+%7C%7C+Java+%7C%7C+C++%E2%9D%A4;Learning+DevOps+%E2%9D%A4" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdz" alt="vikasdz" /> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on `Python` 
+🔭 I’m currently working on `Python` 
 
-- 🌱 I’m currently learning `DevOps` 
+🌱 I’m currently learning `DevOps` 
 
-- ❤️ Currently Try To contributing in `Open-Source`
+❤️ Currently Trying contributing to `Open-Source`
 
 
 <div align = "center">
