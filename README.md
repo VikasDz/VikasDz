@@ -43,10 +43,16 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-c.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   </div>
 
-<p align="left">
+<p align="center">
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasdz&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VikasDz&theme=dark&hide_border=true&border_radius=5)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vikasdz&theme=dark&hide_border=true)
+<p align="left">
+<img alt="lang stats" src="https://github-readme-streak-stats.herokuapp.com/?user=VikasDz&theme=dark&hide_border=true&border_radius=5">
+</p>
+
+<p align="right">
+<img alt="lang stats" src="https://github-readme-stats.vercel.app/api?username=vikasdz&theme=dark&hide_border=true">
+</p>
+
