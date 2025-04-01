@@ -4,7 +4,7 @@
 <a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=100&size=30&pause=1000&color=D3A5F7&random=true&width=435&lines=Hii%2C+I'm+Vikash+Kumar" alt="Typing SVG" /></a></h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=17F7CF&random=false&width=435&lines=Post+Graduate+Student%2C+Who+Love+Development+%F0%9F%99%8C;Android+Development+With+Java+%F0%9F%98%89;Python+%7C%7C+Java+%7C%7C+C++%E2%9D%A4;Learning+DevOps+%E2%9D%A4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=17F7CF&random=false&width=435&lines=DevOps+Engineer%2C+Who+Love+Development+%F0%9F%99%8C;Android+Development+With+Java+%F0%9F%98%89;Python+%7C%7C+Java+%7C%7C+C++%E2%9D%A4;Learning+DevOps+%E2%9D%A4" alt="Typing SVG" /></a>
  <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdz" alt="vikasdz" /> </p>
  
